@@ -18,3 +18,6 @@ You will learn how to design technologies that bring people joy, rather than fru
 
 ### 28/12/2015
 - Finished Week 1 | Introduction in Course 1 | Human-Centered Design: an Introduction
+
+### 29/12/2015
+- Finished Week 2 | Needfinding in Course 1 | Human-Centered Design: an Introduction
