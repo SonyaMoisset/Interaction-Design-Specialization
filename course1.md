@@ -19,3 +19,13 @@ This module’s videos and assignment cover a really important topic: where can 
 - Synthesizing What You've Learned
 - Assignment 1
 - Assignment: Interviewing People to Find Latent Needs
+
+#### Week 3
+##### Rapid Prototyping
+This module's lectures introduce storyboarding and several strategies and media for rapid prototyping, including paper, Wizard of Oz, and video. An important part of the creativity of a designer is to think about how you can rapidly prototype and get feedback on your ideas. Because it's almost never the case that the first idea you have will be the best. As a designer, you can learn the most when you're creating and getting feedback on multiple alternatives. Your work will nearly always benefit from thinking broadly to find the right design, and then from lots of polish to get the design right. Prototyping is also a great way to achieve common ground across the design team and other stakeholders. We begin with storyboards, paper prototyping and mockups.Students often ask about the relationship between needfinding and prototyping: how closely does one flow into the other? Ultimately the quality of your final design is the real measure and there are lots of ways to get there. While most design work benefits from prototypes directly informed by the needfinding process, it's not required. This module seeks to introduce you to doing human-centered design, and walk you through one path that such an approach could take. In both this Specialization and in real life, you are welcome to revise your ideas as much as you like.
+
+- Prototyping: Intro
+- Faking it
+- Many Prototypes Make Light Work
+- Assignment 2
+- Assignment: Storyboarding Design Ideas
