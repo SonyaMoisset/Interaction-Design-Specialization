@@ -22,3 +22,6 @@ You will learn how to design technologies that bring people joy, rather than fru
 ### 29/12/2015
 - Finished Week 2 | Needfinding in Course 1 | Human-Centered Design: an Introduction
 - Finished Week 3 | Rapid Prototyping in Course 1 | Human-Centered Design: an Introduction
+
+### 30/12/2015
+- Finished Week 4 | Heuristic Evaluation in Course 1 | Human-Centered Design: an Introduction
