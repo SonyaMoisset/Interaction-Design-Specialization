@@ -29,3 +29,14 @@ This module's lectures introduce storyboarding and several strategies and media 
 - Many Prototypes Make Light Work
 - Assignment 2
 - Assignment: Storyboarding Design Ideas
+
+#### Week 4
+##### Heuristic Evaluation
+With this module's videos, we turn our focus from brainstorming and prototyping to the concrete elements of interaction design. We introduce ten key principles of good design -- like the importance of feedback and helping people recover from errors. We call these heuristics -- watch the first video here. I hope you'll find these heuristics practical and applicable to your work both inside and outside class. The lectures discuss these heuristics with a bunch of examples drawn from real-world designs. The goal is to illustrate the many ways that designs can be successful or run into trouble. While heuristic evaluations (HEs) focus on issues that lead to improvement they can also identify areas we think show successful compliance with a heuristic
+
+- Heuristic Evaluation: Intro
+- Design Heuristics
+- Assignment 3
+- Cumulative Quiz
+- Assignment: Heuristic Evaluation
+- Quiz: Cumulative Quiz
