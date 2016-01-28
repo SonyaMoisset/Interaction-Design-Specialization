@@ -25,3 +25,6 @@ You will learn how to design technologies that bring people joy, rather than fru
 
 ### 30/12/2015
 - Finished Week 4 | Heuristic Evaluation in Course 1 | Human-Centered Design: an Introduction
+
+### 28/01/2016
+- Finished Week 1 | Direct Manipulation and Representations in Course 2 | Design Principles: an Introduction
