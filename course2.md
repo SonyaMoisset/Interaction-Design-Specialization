@@ -10,3 +10,10 @@ Our lecture videos this module begin with the major innovation of the graphical 
 - Direct Manipulation: Intro
 - Representations
 - Distributing Cognition
+
+#### Week 2
+##### Visual Design and Information Design
+So far, many examples in our videos have been physical. I like physical examples because they’re often easier to understand, and they durably express fundamental principles. Equipped with those fundamentals, we'll now focus more on concrete issues in interaction design to help you flesh out your interactive prototypes. This module’s videos introduce visual and information design. These are the nuts and bolts of user interfaces: scale, contrast, pattern, shape, color, typography, and layout. What I hope you'll take away from these lectures is a newfound appreciation for how subtle changes in this visual variables can powerfully impact people's experience of documents and interfaces. Dive into the first visual design lecture here. Visual design organizes the world of information. As this module’s lectures show, that visual organization provides important cues, yet the structure itself is often invisible
+
+- Visual Design: Intro
+- Information Design
