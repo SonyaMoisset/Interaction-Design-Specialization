@@ -17,8 +17,6 @@ This module’s videos and assignment cover a really important topic: where can 
 
 - Observing Authentic User Behavior
 - Synthesizing What You've Learned
-- Assignment 1
-- Assignment: Interviewing People to Find Latent Needs
 
 #### Week 3
 ##### Rapid Prototyping
@@ -27,8 +25,6 @@ This module's lectures introduce storyboarding and several strategies and media 
 - Prototyping: Intro
 - Faking it
 - Many Prototypes Make Light Work
-- Assignment 2
-- Assignment: Storyboarding Design Ideas
 
 #### Week 4
 ##### Heuristic Evaluation
@@ -36,7 +32,4 @@ With this module's videos, we turn our focus from brainstorming and prototyping 
 
 - Heuristic Evaluation: Intro
 - Design Heuristics
-- Assignment 3
-- Cumulative Quiz
-- Assignment: Heuristic Evaluation
-- Quiz: Cumulative Quiz
+- Quiz: Cumulative Quiz | 90%
