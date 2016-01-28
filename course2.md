@@ -1,0 +1,12 @@
+# Interaction Design Specialization
+## Design Principles: an Introduction
+### About the Course:
+What makes an interface intuitive? How can I tell whether one design works better than another? This course will teach you fundamental principles of design and how to effectively evaluate your work with users. You'll learn fundamental principles of visual design so that you can effectively organize and present information with your interfaces. You'll learn principles of perception and cognition that inform effective interaction design. And you'll learn how to perform and analyze controlled experiments online. In many cases, we'll use Web design as the anchoring domain. A lot of the examples will come from the Web, and we'll talk just a bit about Web technologies in particular. When we do so, it will be to support the main goal of this course, which is helping you build human-centered design skills, so that you have the principles and methods to create excellent interfaces with any technology.
+
+#### Week 1
+##### Direct Manipulation and Representations
+Our lecture videos this module begin with the major innovation of the graphical interface: enabling people to perform input directly on top of output. This directness makes interfaces easier to learn because it enables people to recognize familiar elements. And continuous feedback makes interfaces easier to use, encourages exploration, and prevents errors. To illustrate the benefits of direct manipulation in real interfaces, the videos provide several examples of both particular designs and interface styles. I find that's a lot more useful than just stating abstract principles. Now is a good time to remind everyone that I am not endorsing (or rejecting) any particular product, organization, or person. What I am doing: real people in the real world make real design decisions -- you can learn from this -- and in this course I'll discuss these concrete examples so you can gain real knowledge. The rest of the videos will cover topics related to the importance of representations, such as understanding a user's mental model and helping people to distribute cognition. I will show some examples of how representational differences can impact performance. As you watch these videos, think about how you have arranged or lamented representations in your everyday life. Maybe you put your keys by the door, sunglasses on your hat, or a post-it on your laptop? You'll get a chance to delve into these examples in the assignment.
+
+- Direct Manipulation: Intro
+- Representations
+- Distributing Cognition
