@@ -29,3 +29,6 @@ You will learn how to design technologies that bring people joy, rather than fru
 ### 28/01/2016
 - Finished Week 1 | Direct Manipulation and Representations in Course 2 | Design Principles: an Introduction
 - Finished Week 2 | Visual Design and Information Design in Course 2 | Design Principles: an Introduction
+
+### 11/02/2016
+- Finished Week 3 | Designing Experiments in Course 2 | Design Principles: an Introduction
