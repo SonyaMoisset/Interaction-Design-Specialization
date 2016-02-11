@@ -32,3 +32,4 @@ You will learn how to design technologies that bring people joy, rather than fru
 
 ### 11/02/2016
 - Finished Week 3 | Designing Experiments in Course 2 | Design Principles: an Introduction
+- Finished Week 1 | Connecting People through Technology in Course 3 | Social Computing
