@@ -17,3 +17,11 @@ So far, many examples in our videos have been physical. I like physical examples
 
 - Visual Design: Intro
 - Information Design
+
+#### Week 3
+#### Designing Experiments
+After you’ve made a design, how do you know whether it is good? Or if your team has a couple ideas it is considering, how do you know which one is better? Rather than arguing, throwing chairs, or playing rochambeau, we suggest getting your designs in front of real users to see how well they actually work. To enable you to do this, our final module of lectures will introduce you to designing, running, and analyzing experiments. Testing your ideas with people and using what you learn to make them better can often mean the difference between a flop and a hit. Testing also gives you a chance to flex your rapid prototyping muscles. Build several interfaces quickly, try them out with people, and use what you learn to revise them. Through repeated iteration and testing, you can end up with a wonderfully polished interface. For me, the most exhilarating aspect of running experiments is the element of surprise. Nearly every time my students, colleagues, and I run a study, we learn something that we never even thought to think of. Sometimes it's a roadblock or bug. Other times, it's an unexpected new use of a system -- many great startups have emerged out of finding unexpected new uses for technology. Either way, it'll give you new fodder for design. As in the prototyping lectures, the evaluation lectures emphasize comparison -- testing multiple ideas. In many ways, design is choice, and comparing multiple interfaces helps you make good choices
+
+- Experimental Design
+- Online Experiments
+- Comparing Rates
