@@ -9,3 +9,9 @@ When you think of social media, you might think of a popular social network, lik
 
 - Introduction
 - The Many Ways that People Interact Online
+
+#### Week 2
+##### Challenges & Opportunities of Collaboration Online
+In our always-on, pervasively connected world, it can seem as if space and distance don’t matter anymore. Indeed, more and more organizations are outsourcing work around the globe and/or opening satellite locations. But being instantly reachable from anywhere in the world, isn’t the same as being there. In this module, you’ll learn the ways that distance does and doesn’t matter, how to design for this reality and how to create technologies that go beyond being there.
+
+- Distance Matters
