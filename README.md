@@ -8,8 +8,8 @@ You will learn how to design technologies that bring people joy, rather than fru
 #### Course 3. Social Computing
 #### Course 4. Input and Interaction
 #### Course 5. User Experience: Research & Prototyping
-#### Course 6 Information Design
-#### Course 7 Designing, Running, and Analyzing Experiments
+#### Course 6. Information Design
+#### Course 7. Designing, Running, and Analyzing Experiments
 
 
 ## Updates
@@ -39,3 +39,7 @@ You will learn how to design technologies that bring people joy, rather than fru
 
 ### 14/02/2016
 - Finished Week 3 | Crowdsourcing in Course 3 | Social Computing
+
+
+### 24/02/2016
+- Finished Week 1 | Input and Interaction in Course 4 | Input and Interaction
