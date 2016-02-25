@@ -15,3 +15,9 @@ There’s more to interfaces than what’s on the screen. While often overlooked
 We live in an information-rich world. Consequently, the hardest part of interaction is often finding what we want or finding something that we didn’t know what to ask for. From e-commerce to digital libraries, good search design is central to human-computer interaction in the 21st century.
 
 - Search Interaction
+
+#### Week 3
+##### Gestural Interfaces
+The graphical user interface with windows, icons, menus, and pointers (WIMP) was a massive advance beyond the command line. It also took 20 years to go from research labs into people’s homes. We’re in the midst of a new sea change now. Gestural interfaces can be even more direct and more natural. They can also be even more frustrating. In this module, you’ll learn how to tell the difference and design gestural interfaces that work.
+
+- Gestural Interfaces
