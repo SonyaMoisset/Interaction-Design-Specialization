@@ -9,3 +9,9 @@ There’s more to interfaces than what’s on the screen. While often overlooked
 
 - Introduction
 - Input Fundamentals
+
+#### Week 2
+##### Search & Navigation
+We live in an information-rich world. Consequently, the hardest part of interaction is often finding what we want or finding something that we didn’t know what to ask for. From e-commerce to digital libraries, good search design is central to human-computer interaction in the 21st century.
+
+- Search Interaction
