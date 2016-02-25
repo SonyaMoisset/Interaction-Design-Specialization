@@ -40,6 +40,8 @@ You will learn how to design technologies that bring people joy, rather than fru
 ### 14/02/2016
 - Finished Week 3 | Crowdsourcing in Course 3 | Social Computing
 
-
 ### 24/02/2016
-- Finished Week 1 | Input and Interaction in Course 4 | Input and Interaction
+- Finished Week 1 | Introduction in Course 4 | Input and Interaction
+
+### 25/02/2016
+- Finished Week 2 | Search & Navigation in Course 4 | Input and Interaction
