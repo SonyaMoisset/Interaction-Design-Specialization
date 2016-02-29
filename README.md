@@ -46,3 +46,6 @@ You will learn how to design technologies that bring people joy, rather than fru
 ### 25/02/2016
 - Finished Week 2 | Search & Navigation in Course 4 | Input and Interaction
 - Finished Week 3 | Gestural Interfaces in Course 4 | Input and Interaction
+
+### 29/02/2016
+- Finished Week 1 | Basic Experiment Design Concepts in Course 5 | User Experience: Research & Prototyping
